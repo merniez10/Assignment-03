@@ -1,6 +1,7 @@
 # Description
 Web Application that allows an individual to create a randomly generated passcode based on their answers to given prompts (whether or not to include special characters, numbers, etc.).
 
+# Link  
 https://merniez10.github.io/Password-Generator/
 
 # Preview
